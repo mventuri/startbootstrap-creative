@@ -10219,6 +10219,9 @@ q {font-style: italic;}
   color: #ffffff;
 }
 
-
+/*Custom CSS*/
+.main {
+  display: none;
+}
 
 
